@@ -1,0 +1,6 @@
+{
+  "name": "Kas Kelas",
+  "description": "Sistem kas kelas modern dengan rekap Rabu & Kamis, manajemen pengeluaran, penunggak otomatis, dan notifikasi status bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
